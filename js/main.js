@@ -127,7 +127,7 @@ if (i>1){
             consultaProducto();
             break;
         case 5:
-            listadoProductos()
+            listadoProductos();
             break;
         case 6:
             salir();
