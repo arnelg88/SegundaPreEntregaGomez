@@ -128,6 +128,7 @@ if (i>1){
             break;
         case 5:
             listadoProductos()
+            break;
         case 6:
             salir();
             break;
